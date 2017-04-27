@@ -1,2 +1,2 @@
-# chriselings.github.io
-personal website
+# celings.github.io
+website
